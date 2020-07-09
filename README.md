@@ -12,10 +12,15 @@ The C++ framework we used on college projects. **Viewing purposes only**. Last w
 
 ## Controls
  WASD to steer
+ 
  Left Shift and Left control to accelerate or brake
+ 
  C to change cameras
+ 
  Middle mouse button to move camera in freemode
+ 
  N to change to next Scene and B to go back to the previous
+ 
 
 ## Possible improvements
  1. Change meshes import from .ASE to .OBJ or similar
