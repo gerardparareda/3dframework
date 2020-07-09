@@ -1,0 +1,106 @@
+﻿  camera.cpp
+  framework.cpp
+  game.cpp
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(95,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(122,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(123,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(124,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(125,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\game.cpp(184,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameobject.cpp
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(28,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(35,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(41,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(49,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobject.cpp(71,19): warning C4018: '<': signed/unsigned mismatch
+  gameobjectenemy.cpp
+C:\Users\Parar\Desktop\3dframework\src\gameobjectenemy.cpp(43,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobjectenemy.cpp(76,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectenemy.cpp(80,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectenemy.cpp(80,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectenemy.cpp(80,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameobjectmesh.cpp
+C:\Users\Parar\Desktop\3dframework\src\gameobjectmesh.cpp(43,19): warning C4018: '<': signed/unsigned mismatch
+  gameobjectmesh.h
+  gameobjectplayer.cpp
+C:\Users\Parar\Desktop\3dframework\src\gameobjectplayer.cpp(44,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parar\Desktop\3dframework\src\gameobjectplayer.cpp(59,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectplayer.cpp(63,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectplayer.cpp(69,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\gameobjectplayer.cpp(71,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  gameobjectskybox.cpp
+C:\Users\Parar\Desktop\3dframework\src\gameobjectskybox.cpp(45,19): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  mesh.cpp
+C:\Users\Parar\Desktop\3dframework\src\mesh.cpp(253,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\mesh.cpp(254,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  rendertotexture.cpp
+  resourcemanager.cpp
+  sceneparser.cpp
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(107,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(108,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(109,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(112,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(113,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(114,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(117,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(118,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(119,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(166,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(167,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(168,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(171,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(172,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(173,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(176,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(177,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(178,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(206,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(207,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(208,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(211,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(212,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(213,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(216,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(217,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(218,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(245,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(246,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(247,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(281,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(282,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(283,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(286,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(287,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(288,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(291,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(292,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\sceneparser.cpp(293,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  texture.cpp
+  utils.cpp
+  Generating Code...
+  box.cpp
+  box_bld.cpp
+  cdmath3d.cpp
+  coldet.cpp
+  coldet_bld.cpp
+  multiobject.cpp
+C:\Users\Parar\Desktop\3dframework\src\coldet\sweep_prune.h(266,29): warning C4838: conversion from 'int' to 'COLDET::SNP::ushort' requires a narrowing conversion
+C:\Users\Parar\Desktop\3dframework\src\coldet\sweep_prune.h(266,43): warning C4838: conversion from 'int' to 'COLDET::SNP::ushort' requires a narrowing conversion
+C:\Users\Parar\Desktop\3dframework\src\coldet\sweep_prune.h(313,1): warning C4267: '=': conversion from 'size_t' to 'COLDET::SNP::ushort', possible loss of data
+C:\Users\Parar\Desktop\3dframework\src\coldet\sweep_prune.h(314,1): warning C4267: '=': conversion from 'size_t' to 'COLDET::SNP::ushort', possible loss of data
+  mytritri.cpp
+  sysdep.cpp
+  Generating Code...
+  tritri.c
+  textparser.cpp
+  scene.cpp
+Debug\\..\..\src\\gameobjectmesh.obj : warning LNK4042: object specified more than once; extras ignored
+  scene.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+Debug\\..\..\src\\gameobjectmesh.obj : warning LNK4042: object specified more than once; extras ignored
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Parar\Desktop\3dframework\vc120.pdb'; linking object as if no debug info
+  visualstudio.vcxproj -> C:\Users\Parar\Desktop\3dframework\visualstudio15\VS2015\..\..\visualstudio_debug.exe
